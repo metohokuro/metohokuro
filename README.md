@@ -5,6 +5,7 @@
 # 変な路線変更をしてしまいました()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metohokuro)](https://github.com/anuraghazra/github-readme-stats)
 # なので↑のようにhtmlは全くできません
+# それにしてもえぐいなこれhtml勢やと思われる
 
 <!--
 **metohokuro/metohokuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
