@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+# こんにちはめとほくろです
+# ちょっと前は学校のiPadでyoutubeを見るプロジェクトをしていました
+# 変な路線変更をしてしまいました()
+# pythonしか無理です。
 
 <!--
 **metohokuro/metohokuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
