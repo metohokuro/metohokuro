@@ -1,6 +1,7 @@
 ## Hello!
 # こんにちはめとほくろです
-# pythonしか無理です。
+# 14歳で受験生です
+# pythonしか無理です
 # ちょっと前は学校のiPadでyoutubeを見るプロジェクトをしていました
 # 変な路線変更をしてしまいました()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metohokuro)](https://github.com/anuraghazra/github-readme-stats)
